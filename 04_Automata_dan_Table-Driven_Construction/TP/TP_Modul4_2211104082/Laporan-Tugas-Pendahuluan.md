@@ -28,7 +28,7 @@ Screenshot Code :
 
 Output : 
 
-![image alt ](<https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul4/TP/output%20Door%20Machine.png>)\
+![image alt ](<https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul4/TP/output%20Door%20Machine.png>)
 
 Penjelasan Kode Program : 
 Program ini menggunakan JavaScript dengan modul "readline" untuk memungkinkan interaksi pengguna dalam mengontrol status pintu melalui terminal. Awalnya, pintu berada dalam keadaan terkunci dan menampilkan pesan "Pintu terkunci". Terdapat tiga aksi yang bisa dimasukkan oleh pengguna, yaitu "BukaPintu" untuk membuka pintu jika tidak terkunci, "KunciPintu" untuk mengunci pintu jika terbuka, dan "UnlockPintu" yang berfungsi untuk membuka kunci pintu jika dalam keadaan terkunci. Jika pengguna memasukkan perintah yang tidak valid, maka sistem akan memberikan pesan kesalahan dan meminta input ulang. Fungsi "tanyaAksi()" digunakan untuk meminta input secara berulang hingga program dihentikan secara manual, memastikan bahwa pengguna dapat terus berinteraksi dengan program tanpa perlu menjalankannya kembali setiap kali ingin mengubah status pintu.
