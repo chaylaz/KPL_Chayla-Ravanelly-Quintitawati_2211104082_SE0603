@@ -26,7 +26,7 @@ Screenshot Code :
 
 ![image alt ](<https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul4/jurnal/input%20posisi%20karakter%20game2.png>)
 
-![image alt ](<hhttps://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul4/jurnal/input%20posisi%20karakter%20game3.png>)
+![image alt ](<https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul4/jurnal/input%20posisi%20karakter%20game3.png>)
 
 Output : 
 
