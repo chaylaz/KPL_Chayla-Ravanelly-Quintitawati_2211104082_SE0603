@@ -19,7 +19,7 @@ Output :
 ![image alt ](<https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul6/Jurnal/output%20jurnal%20awal.png>) 
 
 
-### SimpleDataBase
+### Penambahan design by contract pada semua kelas
 
 Screenshot Code :
 
