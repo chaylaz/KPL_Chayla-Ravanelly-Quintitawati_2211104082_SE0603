@@ -1,0 +1,15 @@
+{
+  "firstName": "Chayla",
+  "lastName": "Ravanelly Quintitawati",
+  "gender": "female",
+  "age": 20,
+  "address": {
+    "streetAddress": "Dupak Rukun VI",
+    "city": "Surabaya",
+    "state": "East Java"
+  },
+  "courses": [
+    { "code": "RPD", "name": "Konstruksi Perangkat Lunak" },
+    { "code": "AAH", "name": "Pengujian Perangkat Lunak" }
+  ]
+}
