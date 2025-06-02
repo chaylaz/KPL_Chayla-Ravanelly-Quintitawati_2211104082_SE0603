@@ -1,0 +1,31 @@
+{
+  "courses": [{
+          "code": "CRI2C4",
+          "name": "Konstruksi Perangkat Lunak"
+      },
+      {
+          "code": "CRI3D4",
+          "name": "Pemrograman Web"
+      },
+      {
+          "code": "CRI3E4",
+          "name": "Basis Data"
+      },
+      {
+          "code": "CRI3F4",
+          "name": "Sistem Operasi Perangkat Lunak"
+      },
+      {
+          "code": "CRI3G4",
+          "name": "Jaringan Komputer"
+      },
+      {
+          "code": "CRI3H4",
+          "name": "Kecerdasan Buatan"
+      },
+      {
+          "code": "CRI3I4",
+          "name": "Proyek Tingkat 2"
+      }
+  ]
+}
