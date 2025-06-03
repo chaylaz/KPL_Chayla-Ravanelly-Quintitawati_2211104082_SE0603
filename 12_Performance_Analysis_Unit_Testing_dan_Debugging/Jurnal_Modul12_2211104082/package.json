@@ -1,0 +1,19 @@
+{
+  "name": "jurnal_modul12_2211104082",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^36.3.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
