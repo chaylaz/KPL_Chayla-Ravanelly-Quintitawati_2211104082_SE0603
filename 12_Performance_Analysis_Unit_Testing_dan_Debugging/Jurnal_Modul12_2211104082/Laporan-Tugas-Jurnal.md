@@ -97,21 +97,27 @@ module.exports = { CariNilaiPangkat };
 #### Output Kode
 
 a. Tampilan GUI
+
 ![Image](https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul12/Jurnal/tampilan%20gui.png)
 
 b. Input perpangkatan biasa
+
 ![Image](https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul12/Jurnal/81.png)
 
 c. Apabila input b adalah 0 maka nilai return selalu 1
+
 ![Image](https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul12/Jurnal/1.png)
 
 d. Apabila input b adalah bilangan negatif, maka nilai return adalah -1
+
 ![Image](https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul12/Jurnal/-1.png)
 
 e. Apabila input b lebih dari 10 atau input a lebih dari 100 maka nilai return adalah -2
+
 ![Image](https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul12/Jurnal/-2.png)
 
 f. Apabila hasil pangkat melebihi batas maksimal bilangan positif integer maka nilai return adalah -3
+
 ![Image](https://github.com/chaylaz/Foto-Praktikum-KPL/blob/main/Modul12/Jurnal/-3.png)
 
 ### 2. Melakukan Software Profiling
