@@ -1,0 +1,15 @@
+{
+  "name": "jurnal_modul15_2211104082",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^36.4.0"
+  }
+}
